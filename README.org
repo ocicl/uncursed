@@ -7,4 +7,4 @@ A blessed fixed greased +3 terminal library
 | commit  | a608e8b                                   |
 | systems | uncursed                                  |
 |---------+-------------------------------------------|
- 
+  
