@@ -4,7 +4,7 @@ A blessed fixed greased +3 terminal library
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/Plisp/uncursed.git |
-| commit  | 0850aa9                                   |
+| commit  | aed5526                                   |
 | systems | uncursed                                  |
 |---------+-------------------------------------------|
   
